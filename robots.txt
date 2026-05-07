@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://GCSToken.github.io/snippets-wcerrl/sitemap.xml
